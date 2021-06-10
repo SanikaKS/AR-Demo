@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebXR.Samples.Scripts", "WebXR.Samples.Scripts.csproj", "{2BD86A6B-1243-22FE-AFD8-B4ABDECC22EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebXR", "WebXR.csproj", "{C7B93091-BF21-6361-1B3B-8A0C634808F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebXR.Editor", "WebXR.Editor.csproj", "{AC0FE7A7-6DFB-40DE-8B80-2739F465D454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BD86A6B-1243-22FE-AFD8-B4ABDECC22EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BD86A6B-1243-22FE-AFD8-B4ABDECC22EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BD86A6B-1243-22FE-AFD8-B4ABDECC22EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BD86A6B-1243-22FE-AFD8-B4ABDECC22EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7B93091-BF21-6361-1B3B-8A0C634808F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7B93091-BF21-6361-1B3B-8A0C634808F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7B93091-BF21-6361-1B3B-8A0C634808F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7B93091-BF21-6361-1B3B-8A0C634808F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC0FE7A7-6DFB-40DE-8B80-2739F465D454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0FE7A7-6DFB-40DE-8B80-2739F465D454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0FE7A7-6DFB-40DE-8B80-2739F465D454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0FE7A7-6DFB-40DE-8B80-2739F465D454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
